@@ -2,7 +2,7 @@
 Hive Engine Airdrop Tool
 ---
 
-This tool will allow you to conduct your own airdrop without any using third party services.
+This tool will allow you to conduct your own airdrop without using any third party services.
 
 ## Supports all three distribution methods
 
@@ -37,7 +37,7 @@ ned, 1000
 bob, 500  
 ted, 200
 
-Make a copy of config.json.example to config.json and the edit file.
+Make a copy of config.json.example to config.json and edit the file.
 
 In the configuration file you need to set the following information:
 
